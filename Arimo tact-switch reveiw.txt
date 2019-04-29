@@ -2,6 +2,7 @@
 
 [comment-1] We had suggested to factory that 'IP67' is important spec based on comparison of transaction of with IP67 and without IP67 product. This is an insight from manual. How we consider ML's insight and human's insight?  
   -> closed
+hahaha
  
 [comment-2] The expected share of new product 
   -> Confirm detail
@@ -11,6 +12,7 @@
  
 [comment-4] Regarding demand forecasting, Factory may want to see high level trend, what type of product is growing. for example, long life product, small size product, IP67(dust and water proof product), SMD(mounting) product etc. I'm not sure Arimo's technology is feasible or not. But this is basic needs of factory.    
    -> Bonus output (low priority)
+hihihi
 
 [comment-5] This proposal package isn't include 'brand new product'. For example, please look at A spec group 'Outline1=6, outline2=6, height=5, force=160'. This spec group is expected the highest sales among all spec groups. By the way, existing products in the spec group doesn't have 'IP67' product at all. we may develop IP67 product in this zone. If Arimo can cover this kind of new product proposal, this is very attractive. We have already discussed that 'brand new product' is out of scope. But I would like to review again whether it is really impossible..
   -> Bonus output (high priority)
