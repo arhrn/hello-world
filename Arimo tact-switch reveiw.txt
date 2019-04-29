@@ -1,0 +1,53 @@
+[Tactile Switch]
+
+[comment-1] We had suggested to factory that 'IP67' is important spec based on comparison of transaction of with IP67 and without IP67 product. This is an insight from manual. How we consider ML's insight and human's insight?  
+  -> closed
+ 
+[comment-2] The expected share of new product 
+  -> Confirm detail
+ 
+[comment-3] Arimo's model consider forecact of demand by each Need to implement it to factory proposal.  
+  -> Done
+ 
+[comment-4] Regarding demand forecasting, Factory may want to see high level trend, what type of product is growing. for example, long life product, small size product, IP67(dust and water proof product), SMD(mounting) product etc. I'm not sure Arimo's technology is feasible or not. But this is basic needs of factory.    
+   -> Bonus output (low priority)
+
+[comment-5] This proposal package isn't include 'brand new product'. For example, please look at A spec group 'Outline1=6, outline2=6, height=5, force=160'. This spec group is expected the highest sales among all spec groups. By the way, existing products in the spec group doesn't have 'IP67' product at all. we may develop IP67 product in this zone. If Arimo can cover this kind of new product proposal, this is very attractive. We have already discussed that 'brand new product' is out of scope. But I would like to review again whether it is really impossible..
+  -> Bonus output (high priority)
+
+
+[comment-6)] Outline_1 and Outline_2 means two sides of footprint of switch. So I think Outline_1 and Outline_2 should be combined one spec, For example '6-6', '6-6.2'. And '6.2-6' and '6-6.2' are identical footprint. we should marge these two spec as one spec.
+  -> Khang will check
+
+[comment-7] Please let me know exact time range of current year and next year for the seedlist.
+  -> Done. Current:  1/2018 to 12/2018
+           Forecast: 1/2019 to 12/2019
+
+
+[comment-9] Expected market transaction seems shrinking comparing Arimo-seedlist to Digikey-web-data (even though I have checked only top 10 spec groups) 
+
+
+  -> Done
+
+
+[comment-10] expected share of new product which of spec group doesn't have panasonic existing product seems very low.
+
+
+  -> Done
+
+[comment-11] Let me know how to consider existing part number count.
+
+
+  -> Done
+
+[comment-12] Please compare two columns, 'number_of_pns' and 'Average of number_of_pns_from_comp_per_spec'. I think these columns should be same number.
+  -> Done
+
+[comment-13] As a bonus, measure 'Technology Distance'. For example, a new proposed product consists of 8 spec. Panasonic existing product has 7 spec. It means Technology Distance is close (7 out of 8). 
+
+*** As a Conclusion,(remaining action items for factory proposal in May24)
+[comment-4] Technology trend (Low priority)
+[comment-5] Brand new product (High priority)
+[comment-13] Technology Distance (Middle priority) 
+
+
